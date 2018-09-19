@@ -9,6 +9,7 @@ Some questions that aren't saveable (such as web or service challenge) has been 
 Have fun!
 
 psst: I'm from AyamOriginal team. 👋
+
 psst2: Congratz to NSU Grayhats team for winning the ticket to Black Hat Vegas!
 
 ## Scoreboard
