@@ -1,0 +1,12 @@
+.{21}
+...........ba........
+le$
+^g.t
+to
+th
+[^m]*mob
+b.l
+^[^t]+t t[^t] t[^t]{2} [^t]{3}t[^t]+$
+.............[psnzqj][blrvt][okhzmb].....
+.............[riwynk][ftwjp][mcgjwpx].....
+ 

@@ -1,0 +1,4 @@
+
+5 point hint: Is there anything amiss in the image header?
+10 point hint: What resolution should the image be?
+
