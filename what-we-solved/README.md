@@ -6,6 +6,7 @@ I want to make a reference to myself of what questions that we didn't managed to
 ![](bin-exploit.png)
 ![](crypto.png)
 ![](forensics.png)
+![](packets.png)
 ![](problem-solving.png)
 ![](re.png)
 ![](trivia.png)
