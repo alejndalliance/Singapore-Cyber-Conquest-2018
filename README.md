@@ -12,6 +12,10 @@ psst: I'm from AyamOriginal team. 👋
 
 psst2: Congratz to NSU Grayhats team for winning the ticket to Black Hat Vegas!
 
+## Write Ups
+[Reverse engineering/Local validation (400)](challenges/Reverse%20engineering/Local%20validation%20(400)/README.md)  
+[Reverse engineering/omghax (400)](challenges/Reverse%20engineering/omghax%20(400)/README.md)
+
 ## Scoreboard
 ![](scoreboard.png)
 
