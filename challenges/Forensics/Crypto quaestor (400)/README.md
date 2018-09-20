@@ -2,7 +2,7 @@
 
 **Category :** Forensics
 
-**Points :** 300
+**Points :** 400
 
 **Solves :** -
 
