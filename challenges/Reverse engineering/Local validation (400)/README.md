@@ -21,7 +21,7 @@ This challenge consist of 3 files
 
 Upon opening `FlagPrinter.exe`, it prompt for password, when we entering random pass, we got `REJECTED` .
 
-![image](img/flagprinter.png)
+![image](https://github.com/alejndalliance/Singapore-Cyber-Conquest-2018/blob/master/challenges/Reverse%20engineering/Local%20validation%20(400)/img/flagprinter.PNG)
 
 Further inspecting all three files
 - FlagPrinter.cs <- we can get idea how the executable verify password and flag is located here
@@ -58,7 +58,7 @@ There is no dll integrity check on `Flagprinter.exe` , so we can load our own `P
 
 Checking the dll for its export name `IsPasswordValid`
 
-![image](img/export.PNG)
+![image](https://github.com/alejndalliance/Singapore-Cyber-Conquest-2018/blob/master/challenges/Reverse%20engineering/Local%20validation%20(400)/img/export.PNG)
 
 Now we can code our dll that have the export and `return 0` to the `FlagPrinter.exe`
 below is our sample code, you can code it any way you want.
@@ -79,7 +79,7 @@ extern "C"
 ```
 replace the original dll with our dll and run the `FlagPrinter.exe`
 
-![image](img/flag.PNG)
+![image](https://github.com/alejndalliance/Singapore-Cyber-Conquest-2018/blob/master/challenges/Reverse%20engineering/Local%20validation%20(400)/img/flag.PNG)
 
 Flag : does that count as dll injection?
 
@@ -87,4 +87,4 @@ Flag : does that count as dll injection?
 
 You also can deobfuscate the `FlagPrinter.exe` using de4dot and get the flag. which is easier.
 
-![image](img/de4dot.PNG)
+![image](https://github.com/alejndalliance/Singapore-Cyber-Conquest-2018/blob/master/challenges/Reverse%20engineering/Local%20validation%20(400)/img/de4dot.PNG)
