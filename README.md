@@ -10,7 +10,7 @@ Have fun!
 
 psst: I'm from AyamOriginal team. 👋
 
-psst2: Congratz to NSU Grayhats team for winning the ticket to Black Hat Vegas!
+psst2: Congratz to NUS Greyhats team for winning the ticket to Black Hat Vegas!
 
 ## Write Ups
 [Binary exploits/Heed my warning (400)](challenges/Binary%20exploits/Heed%20my%20warning%20(400)/README.md)  
